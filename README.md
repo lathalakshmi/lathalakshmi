@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LUX.
-- 👀 I’m interested in Web developer and PYTHON Programming.
-- 🌱 I’m currently learning AWS ML.
-- 💞️ I’m looking to collaborate on IT 
+- 👋 Hi, I’m Lakshmi.
+- 👀 I’m interested in Web Design and Maintenance work from home or Hybrid.
+- 🌱 I’m currently learning AWS ML, AI technologies.
+- 💞️ I’m looking to collaborate on IT products Customization, Implementation and Testing projects.
 - 📫 How to reach me by mail.
 
 <!---
